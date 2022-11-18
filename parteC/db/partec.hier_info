@@ -1,0 +1,81 @@
+|sumador_completo
+s0 <= inst16.DB_MAX_OUTPUT_PORT_TYPE
+clk => inst16.CLK
+clk => inst12.CLK
+clk => inst1.CLK
+clk => inst11.CLK
+clk => inst17.CLK
+clk => inst13.CLK
+clk => inst8.CLK
+clk => inst18.CLK
+clk => inst14.CLK
+clk => inst9.CLK
+clk => inst19.CLK
+clk => inst15.CLK
+clk => inst10.CLK
+clk => inst20.CLK
+clk => inst21.CLK
+clk => inst23.CLK
+clk => inst35.CLK
+a1 => inst12.DATAIN
+b0 => inst1.DATAIN
+a0 => inst11.DATAIN
+s1 <= inst17.DB_MAX_OUTPUT_PORT_TYPE
+a2 => inst13.DATAIN
+b1 => inst8.DATAIN
+s2 <= inst18.DB_MAX_OUTPUT_PORT_TYPE
+a3 => inst14.DATAIN
+b2 => inst9.DATAIN
+s3 <= inst19.DB_MAX_OUTPUT_PORT_TYPE
+sc => inst15.DATAIN
+b3 => inst10.DATAIN
+carry <= inst20.DB_MAX_OUTPUT_PORT_TYPE
+des <= inst21.DB_MAX_OUTPUT_PORT_TYPE
+0 <= inst23.DB_MAX_OUTPUT_PORT_TYPE
+signo <= inst35.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|sumador_completo|sumador_completoC:inst29
+a => f.IN0
+a => cout.IN0
+b => f.IN1
+b => cout.IN1
+cin => f.IN1
+cin => cout.IN1
+f <= f.DB_MAX_OUTPUT_PORT_TYPE
+cout <= cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|sumador_completo|sumador_completoC:inst30
+a => f.IN0
+a => cout.IN0
+b => f.IN1
+b => cout.IN1
+cin => f.IN1
+cin => cout.IN1
+f <= f.DB_MAX_OUTPUT_PORT_TYPE
+cout <= cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|sumador_completo|sumador_completoC:inst31
+a => f.IN0
+a => cout.IN0
+b => f.IN1
+b => cout.IN1
+cin => f.IN1
+cin => cout.IN1
+f <= f.DB_MAX_OUTPUT_PORT_TYPE
+cout <= cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|sumador_completo|sumador_completoC:inst32
+a => f.IN0
+a => cout.IN0
+b => f.IN1
+b => cout.IN1
+cin => f.IN1
+cin => cout.IN1
+f <= f.DB_MAX_OUTPUT_PORT_TYPE
+cout <= cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
