@@ -1,0 +1,15 @@
+library IEEE;
+use ieee.std_logic_1164.all;
+
+entity ParteA is
+ port ( sw1 : in std_logic;
+			sw2 : in std_logic;
+			led : out std_logic);
+end ParteA;
+
+architecture behavioral of ParteA is 
+
+
+begin 
+led <= not (sw1 and sw2);
+end behavioral;

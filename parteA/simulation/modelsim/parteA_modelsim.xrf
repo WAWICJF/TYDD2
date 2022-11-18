@@ -1,0 +1,14 @@
+vendor_name = ModelSim
+source_file = 1, C:/Users/JFDC/Desktop/lab_2/parteA/parteA.vhd
+source_file = 1, C:/Users/JFDC/Desktop/lab_2/parteA/simA.vwf
+source_file = 1, C:/Users/JFDC/Desktop/lab_2/parteA/teatbencha.vhd
+source_file = 1, C:/Users/JFDC/Desktop/lab_2/parteA/db/parteA.cbx.xml
+source_file = 1, c:/altera/13.0sp1/quartus/libraries/vhdl/ieee/prmtvs_b.vhd
+source_file = 1, c:/altera/13.0sp1/quartus/libraries/vhdl/ieee/prmtvs_p.vhd
+source_file = 1, c:/altera/13.0sp1/quartus/libraries/vhdl/ieee/timing_b.vhd
+source_file = 1, c:/altera/13.0sp1/quartus/libraries/vhdl/ieee/timing_p.vhd
+design_name = parteA
+instance = comp, \LED~output , LED~output, parteA, 1
+instance = comp, \SW2~input , SW2~input, parteA, 1
+instance = comp, \SW1~input , SW1~input, parteA, 1
+instance = comp, \LED~0 , LED~0, parteA, 1
