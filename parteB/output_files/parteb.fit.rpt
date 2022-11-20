@@ -1,5 +1,5 @@
 Fitter report for parteb
-Fri Nov 18 01:31:09 2022
+Fri Nov 18 17:06:16 2022
 Quartus II 64-Bit Version 13.0.1 Build 232 06/12/2013 Service Pack 1 SJ Web Edition
 
 
@@ -66,7 +66,7 @@ applicable agreement for further details.
 +--------------------------------------------------------------------------------------+
 ; Fitter Summary                                                                       ;
 +------------------------------------+-------------------------------------------------+
-; Fitter Status                      ; Successful - Fri Nov 18 01:31:09 2022           ;
+; Fitter Status                      ; Successful - Fri Nov 18 17:06:16 2022           ;
 ; Quartus II 64-Bit Version          ; 13.0.1 Build 232 06/12/2013 SP 1 SJ Web Edition ;
 ; Revision Name                      ; parteb                                          ;
 ; Top-level Entity Name              ; sumador_completo                                ;
@@ -205,7 +205,7 @@ Parallel compilation was disabled, but you have multiple processors available. E
 +--------------+
 ; Pin-Out File ;
 +--------------+
-The pin-out file can be found in C:/Users/JFDC/Desktop/lab_2/parteB/output_files/parteb.pin.
+The pin-out file can be found in C:/Users/JFDC/Desktop/lab2 tydd2/parteB/output_files/parteb.pin.
 
 
 +---------------------------------------------------------------------+
@@ -1511,17 +1511,17 @@ Info (334004): Delay annotation completed successfully
 Info (334003): Started post-fitting delay annotation
 Info (334004): Delay annotation completed successfully
 Info (11218): Fitter post-fit operations ending: elapsed time is 00:00:01
-Info (144001): Generated suppressed messages file C:/Users/JFDC/Desktop/lab_2/parteB/output_files/parteb.fit.smsg
+Info (144001): Generated suppressed messages file C:/Users/JFDC/Desktop/lab2 tydd2/parteB/output_files/parteb.fit.smsg
 Info: Quartus II 64-Bit Fitter was successful. 0 errors, 5 warnings
     Info: Peak virtual memory: 5048 megabytes
-    Info: Processing ended: Fri Nov 18 01:31:10 2022
-    Info: Elapsed time: 00:00:16
-    Info: Total CPU time (on all processors): 00:00:16
+    Info: Processing ended: Fri Nov 18 17:06:16 2022
+    Info: Elapsed time: 00:00:14
+    Info: Total CPU time (on all processors): 00:00:14
 
 
 +----------------------------+
 ; Fitter Suppressed Messages ;
 +----------------------------+
-The suppressed messages can be found in C:/Users/JFDC/Desktop/lab_2/parteB/output_files/parteb.fit.smsg.
+The suppressed messages can be found in C:/Users/JFDC/Desktop/lab2 tydd2/parteB/output_files/parteb.fit.smsg.
 
 

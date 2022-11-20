@@ -1,9 +1,9 @@
 vendor_name = ModelSim
-source_file = 1, C:/Users/JFDC/Desktop/lab_2/parteB/D_FF.vhd
-source_file = 1, C:/Users/JFDC/Desktop/lab_2/parteB/sumador_completo.vhd
-source_file = 1, C:/Users/JFDC/Desktop/lab_2/parteB/Nueva carpeta/Waveform.vwf
-source_file = 1, C:/Users/JFDC/Desktop/lab_2/parteB/sum_comp_tb.vhd
-source_file = 1, C:/Users/JFDC/Desktop/lab_2/parteB/db/parteb.cbx.xml
+source_file = 1, C:/Users/JFDC/Desktop/lab2 tydd2/parteB/D_FF.vhd
+source_file = 1, C:/Users/JFDC/Desktop/lab2 tydd2/parteB/sumador_completo.vhd
+source_file = 1, C:/Users/JFDC/Desktop/lab2 tydd2/parteB/Nueva carpeta/Waveform.vwf
+source_file = 1, C:/Users/JFDC/Desktop/lab2 tydd2/parteB/sum_comp_tb.vhd
+source_file = 1, C:/Users/JFDC/Desktop/lab2 tydd2/parteB/db/parteb.cbx.xml
 source_file = 1, c:/altera/13.0sp1/quartus/libraries/vhdl/ieee/prmtvs_b.vhd
 source_file = 1, c:/altera/13.0sp1/quartus/libraries/vhdl/ieee/prmtvs_p.vhd
 source_file = 1, c:/altera/13.0sp1/quartus/libraries/vhdl/ieee/timing_b.vhd

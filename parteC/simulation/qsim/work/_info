@@ -1,0 +1,43 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\JFDC\Desktop\lab2 tydd2\parteC\simulation\qsim
+vsumador_completo
+Z1 IM]nfheMzRiCkm]NRKJmzJ3
+Z2 VB5a^;azo0`VhBz8eOiP5F3
+Z3 dC:\Users\JFDC\Desktop\lab2 tydd2\parteC\simulation\qsim
+Z4 w1668890115
+Z5 8partec.vo
+Z6 Fpartec.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s90 -work|work|partec.vo|
+Z9 o-work work -O0
+!i10b 1
+Z10 !s100 >=S0j@XB<Ff`EWR<6RYZe2
+!s85 0
+Z11 !s108 1668890115.579000
+Z12 !s107 partec.vo|
+!s101 -O0
+vsumador_completo_vlg_sample_tst
+!i10b 1
+Z13 !s100 7GkJPHzhPFT?Lc2ZD?P[62
+Z14 Ic=Lm29Qo;SCWQYIoz7jFV0
+Z15 VJFgBYj;P]8P=jRH3j<E^B1
+R3
+w1668890114
+Z16 8partec.vt
+Z17 Fpartec.vt
+L0 29
+R7
+r1
+!s85 0
+31
+!s108 1668890115.635000
+!s107 partec.vt|
+Z18 !s90 -work|work|partec.vt|
+!s101 -O0
+R9

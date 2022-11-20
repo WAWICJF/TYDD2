@@ -1,5 +1,5 @@
 Flow report for parteb
-Fri Nov 18 01:31:19 2022
+Fri Nov 18 17:06:25 2022
 Quartus II 64-Bit Version 13.0.1 Build 232 06/12/2013 Service Pack 1 SJ Web Edition
 
 
@@ -40,7 +40,7 @@ applicable agreement for further details.
 +--------------------------------------------------------------------------------------+
 ; Flow Summary                                                                         ;
 +------------------------------------+-------------------------------------------------+
-; Flow Status                        ; Successful - Fri Nov 18 01:31:19 2022           ;
+; Flow Status                        ; Successful - Fri Nov 18 17:06:25 2022           ;
 ; Quartus II 64-Bit Version          ; 13.0.1 Build 232 06/12/2013 SP 1 SJ Web Edition ;
 ; Revision Name                      ; parteb                                          ;
 ; Top-level Entity Name              ; sumador_completo                                ;
@@ -64,7 +64,7 @@ applicable agreement for further details.
 +-------------------+---------------------+
 ; Option            ; Setting             ;
 +-------------------+---------------------+
-; Start date & time ; 11/18/2022 01:30:51 ;
+; Start date & time ; 11/18/2022 17:06:00 ;
 ; Main task         ; Compilation         ;
 ; Revision Name     ; parteb              ;
 +-------------------+---------------------+
@@ -75,7 +75,7 @@ applicable agreement for further details.
 +--------------------------------------+---------------------------------------+---------------+------------------+----------------+
 ; Assignment Name                      ; Value                                 ; Default Value ; Entity Name      ; Section Id     ;
 +--------------------------------------+---------------------------------------+---------------+------------------+----------------+
-; COMPILER_SIGNATURE_ID                ; 27214208755519.166874585100256        ; --            ; --               ; --             ;
+; COMPILER_SIGNATURE_ID                ; 27214208755519.166880196007580        ; --            ; --               ; --             ;
 ; EDA_DESIGN_INSTANCE_NAME             ; uut                                   ; --            ; --               ; sum_comp_tb    ;
 ; EDA_GENERATE_FUNCTIONAL_NETLIST      ; Off                                   ; --            ; --               ; eda_simulation ;
 ; EDA_NATIVELINK_SIMULATION_TEST_BENCH ; sum_comp_tb                           ; --            ; --               ; eda_simulation ;
@@ -85,7 +85,7 @@ applicable agreement for further details.
 ; EDA_TEST_BENCH_FILE                  ; sum_comp_tb.vhd                       ; --            ; --               ; sum_comp_tb    ;
 ; EDA_TEST_BENCH_MODULE_NAME           ; sum_comp_tb                           ; --            ; --               ; sum_comp_tb    ;
 ; EDA_TEST_BENCH_NAME                  ; sum_comp_tb                           ; --            ; --               ; eda_simulation ;
-; EDA_TEST_BENCH_RUN_SIM_FOR           ; 40 s                                  ; --            ; --               ; sum_comp_tb    ;
+; EDA_TEST_BENCH_RUN_SIM_FOR           ; 40 ns                                 ; --            ; --               ; sum_comp_tb    ;
 ; EDA_TIME_SCALE                       ; 1 ps                                  ; --            ; --               ; eda_simulation ;
 ; MAX_CORE_JUNCTION_TEMP               ; 85                                    ; --            ; --               ; --             ;
 ; MIN_CORE_JUNCTION_TEMP               ; 0                                     ; --            ; --               ; --             ;
@@ -105,12 +105,12 @@ applicable agreement for further details.
 +---------------------------+--------------+-------------------------+---------------------+------------------------------------+
 ; Module Name               ; Elapsed Time ; Average Processors Used ; Peak Virtual Memory ; Total CPU Time (on all processors) ;
 +---------------------------+--------------+-------------------------+---------------------+------------------------------------+
-; Analysis & Synthesis      ; 00:00:02     ; 1.0                     ; 4627 MB             ; 00:00:02                           ;
-; Fitter                    ; 00:00:15     ; 1.0                     ; 5048 MB             ; 00:00:15                           ;
+; Analysis & Synthesis      ; 00:00:01     ; 1.0                     ; 4628 MB             ; 00:00:01                           ;
+; Fitter                    ; 00:00:14     ; 1.0                     ; 5048 MB             ; 00:00:14                           ;
 ; Assembler                 ; 00:00:04     ; 1.0                     ; 4545 MB             ; 00:00:04                           ;
 ; TimeQuest Timing Analyzer ; 00:00:02     ; 1.0                     ; 4637 MB             ; 00:00:02                           ;
 ; EDA Netlist Writer        ; 00:00:01     ; 1.0                     ; 4518 MB             ; 00:00:01                           ;
-; Total                     ; 00:00:24     ; --                      ; --                  ; 00:00:24                           ;
+; Total                     ; 00:00:22     ; --                      ; --                  ; 00:00:22                           ;
 +---------------------------+--------------+-------------------------+---------------------+------------------------------------+
 
 

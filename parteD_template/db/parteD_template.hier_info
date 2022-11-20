@@ -1,0 +1,13 @@
+|parteD_template
+clk => state~7.DATAIN
+inp => state.DATAB
+inp => state.DATAB
+inp => state.DATAB
+inp => state.DATAB
+reset => state~9.DATAIN
+outp[0] <= outp.DB_MAX_OUTPUT_PORT_TYPE
+outp[1] <= WideOr1.DB_MAX_OUTPUT_PORT_TYPE
+outp[2] <= WideOr0.DB_MAX_OUTPUT_PORT_TYPE
+outp[3] <= outp.DB_MAX_OUTPUT_PORT_TYPE
+
+
